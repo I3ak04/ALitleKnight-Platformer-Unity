@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Ground
+  - Coin
+  - Enemy
+  - EnemyStopper
+  - PauseCanvas
+  - MovingPlatform
+  - DeadCharacter
+  - GameManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - IgnorePlayer
+  - IgnoreAll
+  - Player
+  - EnemyStopper
+  - IgnoreEnemyStopper
+  - Enemy
+  - IgnoreEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3528817667
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 2539692629
+    locked: 0
+  - name: Player
+    uniqueID: 3804631855
+    locked: 0
+  - name: Character
+    uniqueID: 2069141779
+    locked: 0
+  - name: FrontObjects
+    uniqueID: 1856156705
+    locked: 0
+  - name: Water
+    uniqueID: 1980981733
+    locked: 0
+  - name: Ground
+    uniqueID: 1816030499
+    locked: 0
